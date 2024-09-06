@@ -4,7 +4,7 @@
 
 2- En **gdb_refcard_gnu.pdf** hay una lista de comandos para gdb que les pueden ser utiles para la resolucion del tp.
 
-3- Verifiquen que estan resolviendo la bomba que les fue asignada, son **todas** son diferentes. Lo pueden mirar en este link:
+3- Verifiquen que estan resolviendo **UNICAMENTE** la bomba que les fue asignada, son **TODAS** son diferentes. Lo pueden mirar en este link:
 
     https://docs.google.com/spreadsheets/d/1BuZDWIamVyTwlLDPhvZHSV5aCTu4s7TerAugAhjXmdc/edit?gid=1100119666#gid=1100119666
 
