@@ -1,0 +1,7 @@
+valgrind ./diskimageaccess -qi samples/testdisks/basicDiskImage
+valgrind ./diskimageaccess -qp samples/testdisks/basicDiskImage
+valgrind ./diskimageaccess -qi samples/testdisks/depthFileDiskImage
+valgrind ./diskimageaccess -qp samples/testdisks/depthFileDiskImage
+valgrind ./diskimageaccess -qi samples/testdisks/dirFnameSizeDiskImage
+valgrind ./diskimageaccess -qp samples/testdisks/dirFnameSizeDiskImage
+
