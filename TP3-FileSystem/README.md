@@ -1,11 +1,10 @@
 # TP-3 File System Unix v6 
 
-**Lean el enunciado del TP3**
+### Antes de comenzar lean el enunciado: **I304 - Enunciado TP3 FileSystem.pdf**
 
 - El proyecto se puede construir ejecutando el siguiente comando:
-
+  
       make
-
 - Este generará un ejecutable diskimageaccess que se puede probar de la siguiente manera:
 
       ./diskimageaccess ​<options>​ ​<diskimagePath>
@@ -29,4 +28,4 @@ en el direcetorio **sample/testdisks**, hay tres discos de prueba: basicDiskImag
 
       ./diskimageaccess -ip /samples/testdisks/basicDiskImage
   
-La salida esperada de ejecutar *diskimageaccess* en cada imagen de disco X se almacena en el archivo X.gold dentro del directorio testdisks
+La salida esperada de ejecutar *diskimageaccess* en cada imagen de disco X se almacena en el archivo **X.gold** dentro del directorio testdisks.
