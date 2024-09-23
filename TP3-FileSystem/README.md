@@ -1,6 +1,6 @@
 # TP-3 File System Unix v6 
 
-### Antes de comenzar lean el enunciado: **I304 - Enunciado TP3 FileSystem.pdf**
+#### Antes de comenzar lean bien el enunciado e intenten comprender que hace cada una de las partes del TP.
 
 - El proyecto se puede construir ejecutando el siguiente comando:
   
