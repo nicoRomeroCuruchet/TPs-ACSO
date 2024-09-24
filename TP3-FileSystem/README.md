@@ -15,7 +15,7 @@
 
 - diskimagePath: debe ser la ruta a uno de los discos de prueba ubicados en:
 
-       /samples/testdisks. 
+       ./samples/testdisks. 
 
 en el direcetorio **sample/testdisks**, hay tres discos de prueba: basicDiskImage, depthFileDiskImage y dirFnameSizeDiskImage.
 
@@ -26,6 +26,6 @@ en el direcetorio **sample/testdisks**, hay tres discos de prueba: basicDiskImag
 
 - Por ejemplo, para ejecutar ambas pruebas de inode y nombre de archivo en el disco basicDiskImage, se puede ejecutar:
 
-      ./diskimageaccess -ip /samples/testdisks/basicDiskImage
+      ./diskimageaccess -ip ./samples/testdisks/basicDiskImage
   
 La salida esperada de ejecutar *diskimageaccess* en cada imagen de disco X se almacena en el archivo **X.gold** dentro del directorio testdisks.
